@@ -11,7 +11,7 @@ Un jeu passionnant où vous devez naviguer sur un pont infini tout en évitant d
 
 ## Jouer au jeu
 
-Vous pouvez jouer au jeu en ligne [ici](https://YOUR_USERNAME.github.io/infinite-bridge-game/).
+Vous pouvez jouer au jeu en ligne [ici](https://kanemamine.github.io/Infinite-Bridge-Game/).
 
 ## Développement local
 
